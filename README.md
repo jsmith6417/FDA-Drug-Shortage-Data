@@ -11,15 +11,3 @@ This Jupyter Notebook retrieves real-time drug shortage data for GLP-1 drugs usi
 - Updates only rows where data has changed  
 
 This selective update process ensures the database remains current while minimizing redundant processing and unnecessary writes.
-
-## Requirements
-
-The following Python packages are required:
-
-- `pandas` – for working with tabular data  
-- `requests` – for making API calls to the FDA endpoint  
-- `sqlite3` – for managing the local SQLite database (included in Python standard library)  
-- `ipython-sql` – for using SQL Magic (`%sql`) in Jupyter Notebook cells  
-
-To install the required non-standard packages:
-pip install pandas requests ipython-sql

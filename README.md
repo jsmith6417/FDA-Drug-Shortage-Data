@@ -18,4 +18,4 @@ Explore the interactive Tableau dashboards here:
 
 ## Article at JCS Analytics
 **Streamlined Drug Shortage Tracking with Python and SQLite**  
-https://jcsanalytics.com/index.php/articles/streamlined-drug-shortage-tracking-with-python-and-sqlite
+[Streamlined Drug Shortage Tracking with Python and SQLite](https://jcsanalytics.com/index.php/articles/automation-and-workflows/streamlined-drug-shortage-tracking-with-python-and-SQLite)

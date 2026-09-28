@@ -1,0 +1,9 @@
+Updated rows: 5
+Inserted rows: 0
+
+--- Updated Rows ---
+Updated: 6 mg/1 mL (NDC 0480-3667-22) → 2026-09-22
+Updated: 6 mg/1 mL (NDC 0480-3667-20) → 2026-09-22
+Updated: 6 mg/1 mL (NDC 0169-2800-15) → 2026-09-22
+Updated: 6 mg/1 mL (NDC 0169-4060-12) → 2026-09-22
+Updated: 6 mg/1 mL (NDC 0169-4060-13) → 2026-09-22
